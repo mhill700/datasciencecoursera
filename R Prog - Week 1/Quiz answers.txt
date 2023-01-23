@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 R Programming
 Week 1
 1) University of Aukland
@@ -19,4 +20,27 @@ Week 1
 17) 42.1
 18) 185.9
 19) 79.1
+=======
+R Programming
+Week 1
+1) University of Aukland
+2) 2, 4, 7
+3) 1,2,4,5,6,8
+4) Numeric
+5) Character
+6) 2x3 matrix
+7) Vector same class
+8)Numeric containng 2
+9) Integer 3,5,5,7
+10) 1, 7,9
+11) Ozone,Solar.R,Wind,Temp,Month,Day
+12) Ozone 41 36
+13) 153
+14) Ozone 18 20
+15) 21
+16) 37
+17) 42.1
+18) 185.9
+19) 79.1
+>>>>>>> ebc92d508d52c3490c866bd0854b9ddb86b943a1
 20) 115
